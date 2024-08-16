@@ -93,6 +93,7 @@ The database schema includes the following tables:
 5. Start the server
 
    ```
+   npm run build
    npm start
    ```
 
